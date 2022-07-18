@@ -7,7 +7,7 @@ export default function ComParametro(props){
   
   return(
     <div>
-      <h3>{time}</h3>
+      <h2>{time}</h2>
       <p>{nacionalidade}</p>
       <p>{estado}</p>
     </div>
