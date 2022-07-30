@@ -11,7 +11,7 @@ export default (props) => {
 
   return(
     <div>
-      <h2><strong>Sortei Aleatório</strong></h2>
+      <h2>Sortei Aleatório</h2>
       <p>Valor minimo: {props.min}</p>
       <p>Valor maximo: {props.max}</p>
       <p>Valor sorteado: { aleatorio }</p>
