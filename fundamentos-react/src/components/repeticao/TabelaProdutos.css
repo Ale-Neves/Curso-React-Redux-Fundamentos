@@ -1,0 +1,19 @@
+.TabelaProdutos table {
+  width: 100%;
+}
+
+.TabelaProdutos th {
+  border-radius: 2px;
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
+  background-color: #cec0ea;
+}
+
+.TabelaProdutos .Par {
+  background-color: rgb(221, 221, 221);
+}
+
+.TabelaProdutos .Inpar {
+  background-color: rgb(243, 243, 243);
+}
